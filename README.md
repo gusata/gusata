@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on: my Capsone Project for my technical high school.
 
-   	|⭐ Star the project on <button><a href="https://github.com/thiagoulloa/PROJECT-LEIA"></button>
+   	|⭐ Star the project on <button><a href="https://github.com/thiagoulloa/PROJECT-LEIA">LEIA</button>
 
 - 🧠 Learning some of this languages: Javascript, Python, React, php, java, c++, c# and visual aplications.
 
