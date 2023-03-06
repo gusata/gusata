@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on: Microsoft, Apple
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GUSATA&layout=compactdark&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusata&layout=compactdark&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 <div style="display: inline_block border-radius:15px;><br>
