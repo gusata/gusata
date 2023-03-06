@@ -10,8 +10,7 @@
 
 - 👯 I’m looking to collaborate on: Microsoft, Apple
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusata&layout=compactdark&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusata&layout=compactdark&theme=transparent)]
 ##
 <div style="display: inline_block border-radius:15px;><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
