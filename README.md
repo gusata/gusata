@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gusata" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&size=35&color=1F30F7&pause=300&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Welcome!+👋;+I'm+Gustavo+Galeazzi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&size=55&color=1F30F7&pause=300&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Welcome!+👋;+I'm+Gustavo+Galeazzi!;" />
 </h1>
 
 <h3 align="center">A committed software developer from Brasil ᵇʳ</h3> 
