@@ -6,7 +6,7 @@
 
 <h3 align="center">A committed software developer from Brasil ᵇʳ</h3> 
 
-
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
  
