@@ -48,19 +48,6 @@
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<br/> 
-<br/>
-
-
-<div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gusata&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusata&layout=compact&langs_count=7&theme=react&hide=SCSS,LESS"/>
-</div>
-
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&size=35&color=1F30F7&pause=300&center=true&vCenter=true&width=500&height=70&duration=3500&lines=thanks+for+visiting!;" />
 </h1>
