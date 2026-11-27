@@ -1,6 +1,6 @@
 # Hi, I'm Gustavo 👋
 
-**Full-stack engineer, frontend-focused** — based in São Paulo, Brazil 🇧🇷. I build fast, polished web and mobile products with **TypeScript, React and Next.js**, and I'm comfortable on the backend with **PHP/Laravel** and **Python**.
+**Full-stack engineer** — based in São Paulo, Brazil 🇧🇷. I build fast, polished web and mobile products with **TypeScript, React and Next.js**, and I'm comfortable on the backend with **PHP/Laravel** and **Python**.
 
 For 1+ year I have worked on **healthcare software** — telemedicine, patient triage and camera-based vital-signs measurement — where reliability, accessibility and data privacy matter.
 
